@@ -1,8 +1,10 @@
 student = "Bob"
 print(student)
+# O/p : Bob
 
 student = [ "Hary", "Ali"]
 print(student)
+#O/p : ['Hary', 'Ali']
 
 #Pros of Dynamic Typing
 #1.very easy to work with
